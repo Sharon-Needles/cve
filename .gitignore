@@ -1,0 +1,5 @@
+hunts/
+.env
+*.log
+*.tmp
+.vscode/
